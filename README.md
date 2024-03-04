@@ -10,4 +10,6 @@ Cloudflare D2 storage-based enterprise software distribution
 ### High-level functionality
 - Easily upload and manage software assets in D2 storage via Cloudflare Worker
 - Authenticate clients and release binaries to authorized clients via Cloudflare Worker
+  - Secure via IP allowlisting, shared private key, hostname validation, or any combination of these three
+  - Access logs and rate limiting functionality
 - Sample PowerShell scripts to retrieve binaries and perform software installation
