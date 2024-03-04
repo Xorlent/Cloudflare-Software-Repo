@@ -4,7 +4,8 @@ Cloudflare D2 storage-based enterprise software distribution
 ## Work in progress...
 
 ### Background and Purpose
-Many device management platforms lack integrated private software repository storage necessary to distribute applications and binary updates to client machines.
+- Many device management platforms lack integrated private software repository storage necessary to distribute applications and binary updates to client machines.
+- Cloudflare D2 storage is inexpensive and free for enterprises needing a limited amount of storage space.  See [https://developers.cloudflare.com/r2/pricing](https://developers.cloudflare.com/r2/pricing)
 
 ### High-level functionality
 - Easily upload and manage software assets in D2 storage via Cloudflare Worker
