@@ -9,7 +9,7 @@ Cloudflare D2 storage-based enterprise software distribution
 
 ### High-level functionality
 - Easily upload and manage software assets in D2 storage via Cloudflare Worker
-  - Secure access via ............
+  - Authentication via secure e-mail link
   - Prompt to delete expired D2 assets
   - Upload asset: Friendly name, ID (auto-gen), expiration (default 1yr), tags/groups
   - Search and select assets: view logs, edit, expire (delete)
