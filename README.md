@@ -1,5 +1,5 @@
-# Cloudflare-Software-Repo
-Cloudflare R2 storage-based enterprise software distribution
+# Repoman
+Cloudflare R2 storage-based enterprise software distribution using Cloudflare Workers
 
 ## Work in progress...
 
